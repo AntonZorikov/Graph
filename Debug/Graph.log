@@ -1,0 +1,10 @@
+﻿  Graph.cpp
+C:\cpp\Data Structures\Graph\Graph.cpp(50,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\cpp\Data Structures\Graph\Graph.cpp(48): message : во время компиляции функции-члена класс шаблон "void Graph<int>::show_graph(int)"
+C:\cpp\Data Structures\Graph\Graph.cpp(69): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::show_graph(int)"
+C:\cpp\Data Structures\Graph\Graph.cpp(63): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\cpp\Data Structures\Graph\Graph.cpp(52,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\cpp\Data Structures\Graph\Graph.cpp(33,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\cpp\Data Structures\Graph\Graph.cpp(25): message : во время компиляции функции-члена класс шаблон "void Graph<int>::add_edge(std::string,std::string)"
+C:\cpp\Data Structures\Graph\Graph.cpp(67): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::add_edge(std::string,std::string)"
+  Graph.vcxproj -> C:\cpp\Data Structures\Graph\Debug\Graph.exe
